@@ -3,8 +3,8 @@ This is a single-page spec for solving the context problem for large language mo
 
 ## Why?
 I realize this is a competing standard to Model Context Protocol,
-But after spending many hours implementing simple MCP servers and following the development of the protocol,
-I think MCP sucks, so I started making NCP everything, I believe, MCP should've been.
+but after spending many hours implementing "simple" MCP servers and following the development of the protocol,
+I think MCP sucks, so I started making NCP everything I believe, MCP should've been.
 
 Feedback & contribution welcome.
 
@@ -48,5 +48,5 @@ Tasks:
 - [ ] Make an example server (hosted)
 - [ ] Make an MCP server that uses NCP behind the scene to make adoption easier
 - [ ] Expand on the Authorization
-- [ ] Create a reference implenetation (if needed)
+- [ ] Create a reference implementation (if needed)
 
