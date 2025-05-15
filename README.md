@@ -1,4 +1,4 @@
-# naivecontextprotocol
+# Naive Context Protocol
 This is a single-page spec for solving the context problem for large language models.
 
 ## Why?
